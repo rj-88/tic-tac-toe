@@ -26,6 +26,7 @@ namespace tic_tac_toe
         int computerWins = 0;
         public Form1()
         {
+            //act 3
             InitializeComponent();
             resetGame();
         }
